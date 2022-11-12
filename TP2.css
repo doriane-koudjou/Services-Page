@@ -1,0 +1,23 @@
+/* Feuille de styles CSS */
+h1
+{
+  color : red ; 
+  font-size : 3em ; 
+}
+figure 
+{
+  text-align : center ;
+}
+figcaption
+{
+  text-alignment : center ; 
+}
+ul 
+{
+  border : 3px blue solid ; 
+  box-shadow : 6px 6px 0px red ; 
+}
+a:hover 
+{
+  color : green  ; 
+}
